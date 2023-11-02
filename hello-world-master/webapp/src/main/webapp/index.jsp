@@ -20,13 +20,13 @@ Registration Page
 Course :  
 </label>   
 <select>  
-<option value="Course">Course</option>  
-<option value="BCA">BCA</option>  
-<option value="BBA">BBA</option>  
-<option value="B.Tech">B.Tech</option>  
-<option value="MBA">MBA</option>  
-<option value="MCA">MCA</option>  
-<option value="M.Tech">M.Tech</option>  
+<option value="AIT Networking">Course</option>  
+<option value="AIT Solutions Architect">BCA</option>  
+<option value="AIT Servers">BBA</option>  
+<option value="AIT Kubernetes">B.Tech</option>  
+<option value="AIT Monitoring">MBA</option>  
+<option value="AIT SDLC">MCA</option>  
+<option value="AIT DevOps">M.Tech</option>  
 </select>  
   
 <br>  
@@ -43,7 +43,7 @@ Gender :
 <label>   
 Phone :  
 </label>  
-<input type="text" name="country code"  value="+91" size="2"/>   
+<input type="text" name="country code"  value="+1" size="2"/>   
 <input type="text" name="phone" size="10"/> <br> <br>  
 Address  
 <br>  
